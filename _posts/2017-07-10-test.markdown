@@ -1,0 +1,9 @@
+---
+title: "Simple test page"
+layout: post
+projects: true
+hidden: true # don't count this post in blog pagination
+category: project
+---
+
+Sample project page
