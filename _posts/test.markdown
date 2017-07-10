@@ -1,7 +1,7 @@
 ---
 title: ":Project test"
 layout: post
-project: true
+projects: true
 ---
 
 Sample project page
