@@ -1,9 +1,22 @@
 ---
-title: "Simple test page"
+title: "Cozmo musicman"
 layout: post
 projects: true
 hidden: true # don't count this post in blog pagination
 category: project
+date: "June 2017"
 ---
 
-Sample project page
+A quick page to present a project that myself and 4 other team members were a part of earlier this year, the idea was to take social robots (examples of social robots) and make them usefull in 48 hours.
+
+### The team
+
+### The project
+
+#### The robot
+
+### Final thoughts...?
+
+Working for 48 hours straight is a hard task ! Not showering was even harder ! After the ordeal we were happy to receive 1st prize from the jury for our innovating work.
+
+You can find the video presentation we did of the project (yes that is me, and yes I hadn't slept enough...) and the git [here](https://github.com/Hoomano-Hackathon/CozmoIsCute)
