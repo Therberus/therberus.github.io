@@ -3,5 +3,17 @@ layout: page
 title: Teaching
 ---
 
-
-Normaly I will start teaching in September 2017 at Lyon 1 university
+<h2> Teaching</h2>
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.teaching %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
+		<p class="description">{{ post.description }}</p>
+		<p><time datetime="{{ post.date | date:"%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></p>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>

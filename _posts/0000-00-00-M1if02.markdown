@@ -1,0 +1,11 @@
+---
+title: "M1if02 Gestion de projet et génie logiciel"
+date: "(September, 2017)" 
+layout: post
+teaching: true
+hidden: true # don't count this post in blog pagination
+externalLink: http://www.tabard.fr/cours/2016/mif02/
+description: "Cours dirigé par Aurélien Tabard"
+---
+
+Course page [here](http://www.tabard.fr/cours/2016/mif02/)
