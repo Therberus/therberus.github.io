@@ -17,3 +17,5 @@ Une partie back-end permettra de rajouter des éléments dans la bibliothèque e
 Une partie front-end permettra de naviguer dans la bibliothèque d’éléments et d’explorer les possibles pour les concepteurs d’applications gamifiées.
 
 Enfin, si le temps le permet, une partie conception dynamique en ligne pourrait être envisagée pour guider les concepteurs dans le processus créatif (instanciation d’élément ludiques) à l’aide d’un plateau de jeu en ligne.
+
+Plus d'infos à venir...
