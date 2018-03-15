@@ -8,7 +8,7 @@ publications: true
 international: true
 hidden: true # don't count this post in blog pagination
 category: project
-externalLink: www.stuhallifax.co.uk/papers/CHI_LBW_Stuart.pdf
+externalLink: CHI_LBW_Stuart.pdf
 ---
 
-Link to get paper [here]( www.stuhallifax.co.uk/papers/CHI_LBW_Stuart.pdf)
+Link to get paper [here]( CHI_LBW_Stuart.pdf)
