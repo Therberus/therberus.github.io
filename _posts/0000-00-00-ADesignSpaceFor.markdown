@@ -1,5 +1,5 @@
 ---
-title: "Creation of GBL scenarios for multi-device environments "
+title: "A Design Space For Meaningful Structural Gamification "
 authors: "Hallifax, S., Serna, A., Marty, J. C., & Lavoue E."
 date: "(2018, April)" 
 conference: "CHI'18 (ACM Conference on Human Factors in Computing Systems)"
