@@ -18,3 +18,18 @@ title: Publications
         {% endif %}
     {% endfor %}
 </section>
+
+<h2> Conférences Francophones</h2>
+<section class="list">
+    {% for post in site.posts %}
+        {% if !post.international %}
+            <div class="item {% if post.star %}star{% endif %}">
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h3 class="title">{{ post.title }}</h3>
+                </a>
+		<p class="authors">{{ post.authors }}</p>
+		<p class="conference">{{ post.conference }} <time datetime="{{ post.date | date:"%m-%Y" }}">{{ post.date | date: "%b %Y" }}</time></p>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
