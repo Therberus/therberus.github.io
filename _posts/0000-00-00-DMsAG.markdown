@@ -1,0 +1,14 @@
+---
+title: "DMsAG une classification d’éléments ludiques pour la ludification adaptative"
+authors: "Hallifax, S."
+date: "(2018, April)" 
+conference: "RJC EIAH 2018 (Rencontre des Jeunes Chercheurs en EIAH)"
+layout: post
+publications: true
+international: false
+hidden: true # don't count this post in blog pagination
+category: project
+externalLink: http://atief.fr/sitesConf/rjceiah2018/doc/ActesRJCEIAH2018.pdf#page=40
+---
+
+Link to get paper [here]( http://atief.fr/sitesConf/rjceiah2018/doc/ActesRJCEIAH2018.pdf#page=40)
