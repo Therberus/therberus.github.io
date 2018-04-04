@@ -22,7 +22,7 @@ title: Publications
 <h2> Conférences Francophones</h2>
 <section class="list">
     {% for post in site.posts %}
-        {% if !post.international %}
+        {% if post.francophone %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                     <h3 class="title">{{ post.title }}</h3>

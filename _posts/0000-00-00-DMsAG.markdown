@@ -5,7 +5,7 @@ date: "(2018, April)"
 conference: "RJC EIAH 2018 (Rencontre des Jeunes Chercheurs en EIAH)"
 layout: post
 publications: true
-international: false
+francophone: true
 hidden: true # don't count this post in blog pagination
 category: project
 externalLink: http://atief.fr/sitesConf/rjceiah2018/doc/ActesRJCEIAH2018.pdf#page=40
