@@ -3,7 +3,7 @@ name: Stuart Hallifax
 bio: A PDH student based in Lyon - France
 
 # twitter summary info
-description:
+#description:
 
 # if it's an external image, update below for true
 # better with square images
@@ -61,7 +61,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
