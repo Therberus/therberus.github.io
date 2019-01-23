@@ -7,4 +7,6 @@ hidden: true # don't count this post in blog pagination
 description: "An introductory course on data analysis, survey design and simple R language, given to 4th year GI students at the INSA Lyon."
 ---
 
-Course material [here](SmallScaleDataAnalysis.zip)
+This is an introductory course on data analysis, survey design and simple R language, given to 4th year GI students at the INSA Lyon. 
+
+The course material can be found [here](SmallScaleDataAnalysis.zip)
