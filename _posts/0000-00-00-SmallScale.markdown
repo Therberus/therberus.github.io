@@ -4,7 +4,7 @@ date: "(January, 2019)"
 layout: post
 teaching: true
 hidden: true # don't count this post in blog pagination
-description: ""
+description: "An introductory course on data analysis, survey design and simple R language, given to 4th year GI students at the INSA Lyon."
 ---
 
 Course material [here](SmallScaleDataAnalysis.zip)
