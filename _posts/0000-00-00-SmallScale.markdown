@@ -10,3 +10,5 @@ description: "An introductory course on data analysis, survey design and simple 
 This is an introductory course on data analysis, survey design and simple R language, given to 4th year GI students at the INSA Lyon. 
 
 The course material can be found [here](SmallScaleDataAnalysis.zip)
+
+The slides from wednesdays lecture can be found [here](SmallScaleDataAnalysis.pptx)
