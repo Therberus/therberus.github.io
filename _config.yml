@@ -33,7 +33,7 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 facebook: therberus
-twitter: therb3rus
+#twitter: therb3rus
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -75,7 +75,7 @@ teaching: true
 publications: true
 
 # if you don't need "about" or "blog", comment them out below
-#about: true
+about: true
 blog: false
 
 # do you want to show the "read time" of the posts?

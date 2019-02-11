@@ -4,43 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a PhD student from the <a href="https://liris.cnrs.fr/en">LIRIS</a> lab, <a href="https://liris.cnrs.fr/en/team/sical">SICAL</a> team, based in Lyon France.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>My thesis is a part of the LudiMoodle project, financed by the e-FRAN project, a part of the “Investissements d’Avenir” (PIA2). This project joins the LIRIS and ECP laboratories, the PAPN from Université Lyon3, and the EduNao company. This project aims for the conception, testing, and validation of a new type of gamification, an adaptive gamification of digital teaching resources (Moodle) to increase secondary school student motivation.
+ 
+During my thesis I will be tasked with defining a model to adapt game elements to learner profiles. After a reviewing literature on the subject, I will need to define:
+•         A trace model, allowing for the collection, analysis, and visualisation of user activity. This information will serve to better understand student profiles, as well as their motivation.
+•         A game element model containing a collection of appropriate game mechanics for such environments
+•         An adaptation model, that defines a certain number of heuristics that will link student profiles to related game elements. Links that can and should evolve over time.
+ 
+The different theoretical propositions shall be put to the test in real world conditions, in different secondary schools in the Auvergne-Rhone-Alpes region. Mathematics is the chosen subject for these experiments, with a target population of 13 to 14 year olds.
+ 
+The objective of my thesis is therefore the production of a model that allows the adaptation of game elements to learner profiles, based on trace based study, and fixed characteristics identified by questionnaires.</p>
