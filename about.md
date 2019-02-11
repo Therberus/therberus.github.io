@@ -4,7 +4,8 @@ title: About
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture2 }})
 
-<p>I am a PhD student from the <a href="https://liris.cnrs.fr/en">LIRIS</a> lab, <a href="https://liris.cnrs.fr/en/team/sical">SICAL</a> team, based in Lyon France.</p>
+<p>I am a PhD student from the <a href="https://liris.cnrs.fr/en">LIRIS</a> lab, <a href="https://liris.cnrs.fr/en/team/sical">SICAL</a> team, based in 
+Lyon France. I am currently working on <em>Adaptive gamification of digital teaching resources</em>, under the supervision of <a href="https://perso.liris.cnrs.fr/elise.lavoue/">Elise Lavoué</a>, <a href="https://perso.liris.cnrs.fr/audrey.serna/">Audrey Serna</a>, and <a href="https://jcmarty.wordpress.com/">Jean-Charles Marty</a></p>
 
 <p>My thesis is a part of the LudiMoodle project, financed by the e-FRAN project, a part of the “Investissements d’Avenir” (PIA2). This project is a joint collaboration between the <a href="https://liris.cnrs.fr/en/team/sical">SICAL</a> and <a href="https://recherche.univ-lyon2.fr/ecp">ECP</a> research teams, the PAPN from Université Lyon3, and the EduNao company. The goals of this project are the conception, testing, and validation of a new type of gamification, an adaptive gamification of digital teaching resources (Moodle) to increase motivation and engagement in secondary school students.
  
