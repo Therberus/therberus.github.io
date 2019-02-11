@@ -13,7 +13,7 @@ During my thesis I will be tasked with defining a model to adapt game elements t
 <ul>
 	<li>A trace model, allowing for the collection, analysis, and visualisation of user activity. This information will serve to better understand student profiles, as well as their motivation.</li>
 	<li>A game element model containing a collection of appropriate game elements for such environments.</li>
-	<li>An adaptation model, that defines a certain number of heuristics that will link student profiles to related game elements. Links that can and should evolve over time.</il>
+	<li>An adaptation model, that defines a certain number of heuristics that will link student profiles to related game elements. Links that can and should evolve over time.</li>
 </ul>
 
 The different theoretical propositions shall be put to the test in real world conditions, in different secondary schools in the Auvergne-Rhone-Alpes region. Mathematics is the chosen subject for these experiments, with a target population of 13 to 14 year olds.
