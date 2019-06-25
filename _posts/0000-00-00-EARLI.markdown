@@ -1,0 +1,14 @@
+---
+title: "Structural Gamification for Adaptation based on Learning Analytics"
+authors: "Hallifax, S., Lavoué, E., Serna, A., & Marty, J. C."
+date: "(2019, August)" 
+conference: "EARLI 2019"
+layout: post
+publications: true
+international: true
+hidden: true # don't count this post in blog pagination
+category: project
+externalLink: https://hal.archives-ouvertes.fr/hal-02147867/document 
+---
+
+Link to get paper [here]( https://hal.archives-ouvertes.fr/hal-02147867/document)
